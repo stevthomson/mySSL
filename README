@@ -2,7 +2,7 @@ MySSL is a variation of the SSL handshake and data transfer phase
 
 To run the handshake and data transfer, open two terminals and change directories to be where client.py and server.py reside
 
-in on terminal execute the command:
+in one terminal execute the command:
 
 python3 server.py
 
