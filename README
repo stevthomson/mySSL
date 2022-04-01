@@ -1,0 +1,15 @@
+MySSL is a variation of the SSL handshake and data transfer phase
+
+To run the handshake and data transfer, open two terminals and change directories to be where client.py and server.py reside
+
+in on terminal execute the command:
+
+python3 server.py
+
+then in the other:
+
+python3 client.py
+
+The handshake, key exchange, and file exchange will happen automatically and any errors that occur should be reported without crashing the program
+
+The server will transfer the file tortoise_hare.txt from serverfiles to clientfiles
